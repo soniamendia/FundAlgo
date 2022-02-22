@@ -8,9 +8,9 @@ int main(){
     int residue = num1%2;
 
     if (residue == 0){
-        printf("the number (%ld) is even\n", num1);
+        printf("the number (%d) is even\n", num1);
     }else{
-        printf("the number (%ld) is odd\n", num1);
+        printf("the number (%d) is odd\n", num1);
     }
     return 0;
 
