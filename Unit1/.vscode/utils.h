@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int isGreaterThan10(int num){
     int result = 0;
